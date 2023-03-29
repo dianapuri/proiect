@@ -1,0 +1,5 @@
+Purice Diana 2023 15 10 2003 Mate 10 Rom 9 Eng 7 0
+Horvath Thomas 2022 15 11 2003 Mate 9 Rom 10 Eng 9 0
+Marusca Paul 2022 16 5 2005 Mate 6 Rom 8 Eng 7 1
+Popescu Maria 2023 25 9 2004 Mate 7 Rom 3 Eng 9 1
+Popescu Cristina 2023 6 10 1996 Mate 8 Rom 6 Eng 10 2

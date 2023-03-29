@@ -1,0 +1,5 @@
+﻿  laboratorul 2.cpp
+C:\Users\40746\Desktop\POO\proiect\laboratorul 2\laboratorul 2\laboratorul 2.cpp(193,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\40746\Desktop\POO\proiect\laboratorul 2\laboratorul 2\laboratorul 2.cpp(202,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\40746\Desktop\POO\proiect\laboratorul 2\laboratorul 2\laboratorul 2.cpp(209,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  laboratorul 2.vcxproj -> C:\Users\40746\Desktop\POO\proiect\laboratorul 2\x64\Debug\laboratorul 2.exe
